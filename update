@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#You can update your website with this script
+#./update
+git add .
+git commit -m "update"
+git push origin master
