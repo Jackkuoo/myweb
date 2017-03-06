@@ -2,6 +2,7 @@
 
 #You can update your website with this script
 #./update
+#type "chmod +x update" if you received message "bash:Permission denied"
 git add .
 git commit -m "update"
 git push origin master
